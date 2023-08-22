@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nassim! <br/>Programmer</a>, Cybersecurity student</a>, IT</a></h1>
+<h1>Hi, I'm Nassim! ☀️ <br/>Programmer</a>, Cybersecurity student</a>, IT</a></h1>
 
 <h2>👨‍💻 Software Development Projects in progress:</h2>
   
@@ -8,18 +8,26 @@
   
 - <b>PowerShell project in progress</b>
   -   
-  🌱 I’m currently learning on 👇🏽
+🌱 I’m currently learning on 👇🏽
 - Onboarding new Employees automatisation
 - Offboarding departing Employees automatisation
 - <b> Programmation project in progress</b>
   - 
-  🔭 I’m currently working on 👇🏽
-- <b>Python</b>
+🔭 I’m currently working on 👇🏽
 
   key logger
 
-  admin scanner
-- <b>Ruby</b>
+
+ 👨🏼‍🍳 my favorite langage 👇🏽
+
+ html 
+
+ python 
+
+ ruby
+
+ sql
+ 
 
 
 
